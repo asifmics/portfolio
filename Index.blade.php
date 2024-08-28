@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,8 +9,8 @@
     <title>Document</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-              rel="stylesheet">
+<!--    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">-->
     <style>
         * {
             margin: 0;
@@ -113,8 +114,8 @@
     <div style="width: 30%; float: left; background: white; height: auto; margin: 0 auto; text-align: center;">
         <div style="padding-right: 10px;">
             <img
-                    style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #eeeeee; text-align: center; margin-top: 30px; object-fit: cover"
-                    src="https://mdasif.me/asif.jpg">
+                style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #eeeeee; text-align: center; margin-top: 30px; object-fit: cover"
+                src="https://mdasif.me/asif.jpg">
             <p class="roboto-regular" style="font-size: 14px; padding-top: 5px;">Md.Asif Ali</p>
             <p class="roboto-regular" style="font-size: 13px; padding-top: 2px;">(Php|Laravel|Vue js|Tailwindcss)</p>
 
@@ -157,6 +158,9 @@
                 Mirpur-12,
                 Dhaka</p>
 
+            <h2 class="roboto-bold" style="padding-top: 20px; text-align: left; font-size: 14px;">Education:</h2>
+            <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top: 2px">Bangladesh university</p>
+            <p style="font-size: 12px; text-align: left; line-height: 18px; padding-top: 0px">Bachelor’s Degree, CSE</p>
 
         </div>
     </div>
@@ -169,20 +173,17 @@
                     Assistant Software Engineer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
-                    BrainMice Team | Dhaka |<span
+                    Brainmice Team |Uttara, Dhaka |<span
                         style="font-size: 13px; text-align: left; line-height: 18px; padding-top: 8px ;">
                     (September-2022) – (Present)
                 </span>
                 </p>
                 <ul class="experience" style="padding-top: 5px ; padding-left: 20px">
-                    <li>My role involves working on a variety of projects that utilize technologies like Laravel,Inertiajs, Vue js,
-                        Laravel Nova, and Tailwind CSS. A strong understanding of  <span style="font-weight: bold"> SOLID principles, ensuring
-                            maintainable and scalable software.</span>
-                    </li>
-                    <li>I implement the repository pattern to abstract data access and the service class to manage
-                        business
-                        logic. This approach enhances code reusability, testability, and adherence to clean architecture
-                        practices.
+                    <li>Developed and maintained projects using Laravel, Inertia.js, Vue.js, Laravel Nova, and
+                        Tailwind CSS, with a strong focus on<span style="font-weight: bold"> SOLID principles for scalable and maintainable
+                            software.</span></li>
+                    <li>Implemented the repository pattern and service classes to enhance code reusability,
+                        testability,andadherencetocleanarchitecturepractices.
                     </li>
                     <li>I develop Software as a <span style="font-weight: bold"> service (SaaS) solutions integrating Stripe for secure</span>, efficient, and
                         scalable payment processing.
@@ -208,7 +209,7 @@
                     Assistant Software Engineer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
-                    Ambalait | Dhaka | <span class="roboto-regular"
+                    Ambala IT |Shymoli, Dhaka | <span class="roboto-regular"
                                              style="font-size: 13px; text-align: left; line-height: 18px; padding-top: 8px ;">
                     (October -2021) – (August-2022)
                 </span>
@@ -217,7 +218,7 @@
                     <li>Implementing new features and ideas in an ecommerce management software on javascript framework
                         (vue js).
                     </li>
-                    <li>Modification new feature and bug fix issues in pos system.
+                    <li>Modified existing features and resolved bug issues in a POS system for improved functionality and userexperience
                     </li>
                 </ul>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:6px">
@@ -236,7 +237,7 @@
                     Web Developer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
-                    Creativesystemltd | Dhaka | <span class="roboto-regular"
+                    Creative System Ltd |Dhanmondi, Dhaka | <span class="roboto-regular"
                                                       style="font-size: 13px; text-align: left; line-height: 18px; padding-top: 8px ;">
                     (May-2020) - (September-2021)
 
@@ -264,7 +265,7 @@
                     Web Developer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
-                    LatentSoft | Dhaka | <span class="roboto-regular"
+                    Latent Soft Ltd |Mohammadpur, Dhaka | <span class="roboto-regular"
                                                style="font-size: 13px; text-align: left; line-height: 18px; padding-top: 8px ;">
                     (January- 2019) – (March-2020)
 
@@ -290,7 +291,7 @@
             <div style="padding-top: 2px">
                 <p class="roboto-regular"
                    style="font-size: 14px; text-align: left; line-height: 18px; padding-top:1px; font-weight: bold">
-                    Web Design And Developer
+                    Web Design And Trainer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
                     ICT | Tangail | <span class="roboto-regular"
@@ -307,7 +308,7 @@
             <div style="padding-top: 2px">
                 <p class="roboto-regular"
                    style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px; font-weight: bold">
-                    Web Design And Tainer
+                    Web Designer
                 </p>
                 <p style="font-size: 14px; text-align: left; line-height: 18px; padding-top:2px">
                     Creative IT Ltd | Dhaka | <span class="roboto-regular"
